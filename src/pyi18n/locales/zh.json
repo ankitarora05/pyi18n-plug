@@ -1,0 +1,6 @@
+{
+  "greeting": "你好，{name}！",
+  "welcome": "欢迎使用 pyi18n-plug。",
+  "errors": { "not_found": "未找到 {name}。" },
+  "items": { "other": "{count} 个项目" }
+}

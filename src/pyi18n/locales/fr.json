@@ -1,0 +1,6 @@
+{
+  "greeting": "Bonjour, {name} !",
+  "welcome": "Bienvenue dans pyi18n-plug.",
+  "errors": { "not_found": "{name} est introuvable." },
+  "items": { "one": "{count} élément", "other": "{count} éléments" }
+}

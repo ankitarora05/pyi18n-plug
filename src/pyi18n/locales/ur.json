@@ -1,0 +1,6 @@
+{
+  "greeting": "ہیلو، {name}!",
+  "welcome": "pyi18n-plug میں خوش آمدید۔",
+  "errors": { "not_found": "{name} نہیں ملا۔" },
+  "items": { "one": "{count} آئٹم", "other": "{count} آئٹمز" }
+}
